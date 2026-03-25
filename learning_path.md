@@ -2,12 +2,12 @@
 
 ## Phase 1 — LLM Fundamentals
 
-1. ChatGPT Prompt Engineering for Developers - System prompts, few-shot, chain-of-thought, structured output.
-2. Building Systems with the ChatGPT API — chaining LLM calls, moderation, building multi-step pipelines.
+1. ChatGPT Prompt Engineering for Developers - System prompts, few-shot, chain-of-thought, structured output. ✅
+2. Building Systems with the ChatGPT API — chaining LLM calls, moderation, building multi-step pipelines. ⏳
 
 ## Phase 2 - RAG
-
-1. Retrieval Augument Generation (RAG)
+ 
+1. Retrieval Augument Generation (RAG) ⏳
 2. LangChain for LLM Application Development — learn the framework basics: chains, memory, tools
 3. LangChain: Chat with Your Data — full RAG pipeline end-to-end
 4. Large Language Models with Semantic Search — understand embeddings and vector similarity deeply
@@ -25,3 +25,10 @@
 2. AI Agents in LangGraph — custom agentic dataflows with fine-grained control. This is the most practical agent course they offer.
 3. Multi AI Agent Systems with CrewAI — multi-agent orchestration patterns
 4. Building Agentic RAG with LlamaIndex — combining RAG + agents
+
+
+## Legends
+
+✅ = Done
+
+⏳ = In Progress
