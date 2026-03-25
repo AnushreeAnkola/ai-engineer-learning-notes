@@ -27,7 +27,7 @@
 4. Building Agentic RAG with LlamaIndex — combining RAG + agents
 
 
-## Books
+## AI Books 
 
 1. LLM Engineer's Handbook (by Maxime Labonne and Paul Iusztin) ⏳
 
