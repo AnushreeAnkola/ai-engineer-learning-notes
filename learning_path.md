@@ -27,6 +27,12 @@
 4. Building Agentic RAG with LlamaIndex — combining RAG + agents
 
 
+## Books
+
+1. LLM Engineer's Handbook (by Maxime Labonne and Paul Iusztin) ⏳
+
+2. Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (by Chip Huyen)
+
 ## Legends
 
 ✅ = Done
