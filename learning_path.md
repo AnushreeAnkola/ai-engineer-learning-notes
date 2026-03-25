@@ -3,7 +3,7 @@
 ## Phase 1 — LLM Fundamentals
 
 1. ChatGPT Prompt Engineering for Developers - System prompts, few-shot, chain-of-thought, structured output. ✅
-2. Building Systems with the ChatGPT API — chaining LLM calls, moderation, building multi-step pipelines. ⏳
+2. Building Systems with the ChatGPT API — chaining LLM calls, moderation, building multi-step pipelines. ✅
 
 ## Phase 2 - RAG
  
