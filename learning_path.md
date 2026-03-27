@@ -5,6 +5,8 @@
 1. ChatGPT Prompt Engineering for Developers - System prompts, few-shot, chain-of-thought, structured output. ✅
 2. Building Systems with the ChatGPT API — chaining LLM calls, moderation, building multi-step pipelines. ✅
 
+**Project**: Product Review Analyzer: [Try the app here](https://a-review-analyzer.streamlit.app/)
+
 ## Phase 2 - RAG
  
 1. Retrieval Augument Generation (RAG) ⏳
