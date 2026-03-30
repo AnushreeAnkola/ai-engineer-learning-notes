@@ -43,3 +43,8 @@
 ✅ = Done
 
 ⏳ = In Progress
+
+## Creators
+
+1. Tina Huang
+2. Chip Huyen
