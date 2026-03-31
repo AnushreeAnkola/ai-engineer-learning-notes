@@ -1,0 +1,5 @@
+## Resources 
+
+| Name of Resource    | URL |
+| -------- | ------- |
+| Andrej's NN Zero to Hero Course  | [Video Link](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)   |
