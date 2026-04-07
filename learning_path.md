@@ -7,7 +7,7 @@
 
 **Project 1**: Product Review Analyzer: [Try the app here](https://a-review-analyzer.streamlit.app/)
 
-**Project 2**: AI Travel Planner (In Progress)
+**Project 2**: AI Travel Planner [Try the app here](https://ai-travel-planner-1.streamlit.app/)
 
 
 ## Phase 2 - RAG
