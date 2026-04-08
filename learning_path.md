@@ -13,10 +13,11 @@
 ## Phase 2 - RAG
  
 1. Retrieval Augument Generation (RAG) ⏳
-2. LangChain for LLM Application Development — learn the framework basics: chains, memory, tools
-3. LangChain: Chat with Your Data — full RAG pipeline end-to-end
-4. Large Language Models with Semantic Search — understand embeddings and vector similarity deeply
-5. Vector Databases: from Embeddings to Applications — how vector DBs actually work (HNSW, Weaviate)
+   **Project 1**: Podcast Search: PodSearch ⏳
+3. LangChain for LLM Application Development — learn the framework basics: chains, memory, tools
+4. LangChain: Chat with Your Data — full RAG pipeline end-to-end
+5. Large Language Models with Semantic Search — understand embeddings and vector similarity deeply
+6. Vector Databases: from Embeddings to Applications — how vector DBs actually work (HNSW, Weaviate)
 
 ## Advanced RAG & Evaluation 
 
