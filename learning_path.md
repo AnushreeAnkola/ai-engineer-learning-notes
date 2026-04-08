@@ -13,6 +13,7 @@
 ## Phase 2 - RAG
  
 1. Retrieval Augument Generation (RAG) ⏳
+
    **Project 1**: Podcast Search: PodSearch ⏳
 3. LangChain for LLM Application Development — learn the framework basics: chains, memory, tools
 4. LangChain: Chat with Your Data — full RAG pipeline end-to-end
