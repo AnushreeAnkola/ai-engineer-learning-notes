@@ -40,6 +40,11 @@
 
 2. Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (by Chip Huyen)
 
+## Certifications
+
+1. Deep Learning.AI -> ChatGPT Prompt Engineering for Developers, Building Systems with the ChatGPT API, Learn to Vibe Code with Replit
+2. Anthropic Academy -> Claude Code in Action, Introduction to Claude Cowork, Claude 101
+
 ## Legends
 
 ✅ = Done
