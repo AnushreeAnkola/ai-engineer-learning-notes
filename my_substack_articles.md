@@ -7,3 +7,4 @@
 5. Amortized Complexity for Backend Engineers: Fast on Average, Spiky in Production: https://anushreeankola29.substack.com/p/amortized-complexity-for-backend
 
 ## Upcoming
+1. 5 AI Projects Anyone Can Build This Weekend (With Code)
