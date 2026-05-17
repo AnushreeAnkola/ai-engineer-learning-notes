@@ -8,3 +8,4 @@
 
 ## Upcoming
 1. 5 AI Projects Anyone Can Build This Weekend (With Code)
+2. Claude API vs OpenAI API: My Honest Take After Building With Both
